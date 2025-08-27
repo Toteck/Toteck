@@ -5,7 +5,7 @@ I am mobile developer
 
 #### Current Stack
 - ⚡️ Main language: `Typescript`
-- 📡 Backend: `Nodejs`
+- 📡 Backend: `Nodejs`, `Supabase`
 - 🎨 Frontend: `Reactjs`, `React Native`, `Expo`
 - 📦 Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`, `Markdown`
