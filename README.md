@@ -1,12 +1,12 @@
 ## Hi there, I'm Mateus Weslley 👋
 
 #### About
-I am a web development student at IFMA Campus Timon, MA.
+I am mobile developer
 
 #### Current Stack
-- ⚡️ Main language: `Javascript`
+- ⚡️ Main language: `Typescript`
 - 📡 Backend: `Nodejs`
-- 🎨 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Frontend: `Reactjs`, `React Native`, `Expo`
 - 📦 Version code control: `Git & Github`
 - 🔨 Tools: `VsCode`, `Markdown`
 
